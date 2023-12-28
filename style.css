@@ -200,3 +200,28 @@ p{
 
 
 
+
+
+
+#blanc{
+    height: 0px;
+    width: 0px;
+
+}
+
+
+/*                                               responsive telephone                                                          */
+
+
+
+
+@media(max-width: 1000px) {
+
+
+    #blanc{
+        height: 1000px;
+        width: 200px;
+
+    }
+
+}
