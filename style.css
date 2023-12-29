@@ -224,4 +224,14 @@ p{
 
     }
 
+    h1{
+        font-family: 'Poppins', sans-serif;
+        font-size: 48px;
+        color: rgb(28, 103, 63);
+        font-weight: 600;
+        margin-left: 150px;
+        margin-bottom: 50px;
+        margin-top: 80px;
+    }
+
 }
