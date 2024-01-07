@@ -112,11 +112,12 @@ p{
 
 #banner_menu{
     text-decoration: none;
-    margin-left: 230px;
+    margin-left: 80px;
     grid-template-columns: 1fr 1fr ;
     display: grid;
-    grid-gap: 20px;
+    grid-gap: 60px;
 }
+
 
 .text_button btn-brown{
     padding-top: 80px;
@@ -128,7 +129,6 @@ p{
 
 #banner_button{
     padding-top: 35px;
-    padding-right: 50px;
 }
 
 
@@ -233,5 +233,14 @@ p{
         margin-bottom: 50px;
         margin-top: 80px;
     }
+
+    #banner_menu{
+        text-decoration: none;
+        margin-left: 40px;
+        grid-template-columns: 1fr 1fr ;
+        display: grid;
+        grid-gap: 60px;
+    }
+
 
 }
